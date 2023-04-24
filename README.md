@@ -1,35 +1,30 @@
 ### App deployada en netlify
 
-# Como ejecutar la aplicación
-Instrucciones para ejecutar la aplicación:
-Para ejecutar la aplicación en tu máquina local, sigue estos pasos:
+https://tasklistgonz.netlify.app/
 
-Clona el repositorio en tu máquina local usando el siguiente comando:
+
+### Como ejecutar la app:
+
+Para ejecutar la aplicación en tu equipo local, sigue estos sencillos pasos:
+
+Clona el repositorio en tu equipo local utilizando el siguiente comando de Git:
 
 git clone https://github.com/TU_USUARIO/tu-repositorio.git
-Navega a la carpeta del proyecto usando el siguiente comando:
+
+Asegúrate de reemplazar "TU_USUARIO" y "tu-repositorio" con tus propias credenciales de usuario y nombre de repositorio.
+
+Accede a la carpeta del proyecto clonado en tu equipo local mediante el siguiente comando:
 
 cd tu-repositorio
 
-Instala las dependencias del proyecto usando el siguiente comando:
+Instala las dependencias del proyecto mediante el siguiente comando de npm:
 
 npm install
-Ejecuta la aplicación en modo de desarrollo usando el siguiente comando:
-# Como ejecutar la aplicación
-Instrucciones para ejecutar la aplicación:
-Para ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
-Clona el repositorio en tu máquina local usando el siguiente comando:
-
-git clone https://github.com/TU_USUARIO/tu-repositorio.git
-Navega a la carpeta del proyecto usando el siguiente comando:
-
-cd tu-repositorio
-
-Instala las dependencias del proyecto usando el siguiente comando:
-
-npm install
-Ejecuta la aplicación en modo de desarrollo usando el siguiente comando:
+Ejecuta la aplicación en modo de desarrollo utilizando el siguiente comando de npm:
 
 npm start
-Abre http://localhost:3000 en tu navegador para ver la aplicación en funcionamiento.
+
+Esto iniciará la aplicación y la ejecutará en un servidor local.
+
+Abre tu navegador web y accede a http://localhost:3000 para ver la aplicación en funcionamiento.
